@@ -1,0 +1,13 @@
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/CMakeFiles/edit_cache.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/CMakeFiles/rebuild_cache.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/CMakeFiles/list_install_components.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/CMakeFiles/install.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/CMakeFiles/install/local.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/lua54.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/lua.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/luac.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/edit_cache.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/list_install_components.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/install.dir
+C:/Users/zhangchen/Desktop/lua-5.4.6/build/src/CMakeFiles/install/local.dir

@@ -1,0 +1,206 @@
+[
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lapi.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lapi.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lapi.c",
+  "output": "src/CMakeFiles/lua54.dir/lapi.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lauxlib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lauxlib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lauxlib.c",
+  "output": "src/CMakeFiles/lua54.dir/lauxlib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lbaselib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lbaselib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lbaselib.c",
+  "output": "src/CMakeFiles/lua54.dir/lbaselib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lcode.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lcode.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lcode.c",
+  "output": "src/CMakeFiles/lua54.dir/lcode.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lcorolib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lcorolib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lcorolib.c",
+  "output": "src/CMakeFiles/lua54.dir/lcorolib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lctype.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lctype.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lctype.c",
+  "output": "src/CMakeFiles/lua54.dir/lctype.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ldblib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ldblib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ldblib.c",
+  "output": "src/CMakeFiles/lua54.dir/ldblib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ldebug.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ldebug.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ldebug.c",
+  "output": "src/CMakeFiles/lua54.dir/ldebug.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ldo.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ldo.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ldo.c",
+  "output": "src/CMakeFiles/lua54.dir/ldo.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ldump.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ldump.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ldump.c",
+  "output": "src/CMakeFiles/lua54.dir/ldump.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lfunc.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lfunc.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lfunc.c",
+  "output": "src/CMakeFiles/lua54.dir/lfunc.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lgc.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lgc.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lgc.c",
+  "output": "src/CMakeFiles/lua54.dir/lgc.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\linit.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\linit.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/linit.c",
+  "output": "src/CMakeFiles/lua54.dir/linit.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\liolib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\liolib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/liolib.c",
+  "output": "src/CMakeFiles/lua54.dir/liolib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\llex.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\llex.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/llex.c",
+  "output": "src/CMakeFiles/lua54.dir/llex.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lmathlib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lmathlib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lmathlib.c",
+  "output": "src/CMakeFiles/lua54.dir/lmathlib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lmem.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lmem.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lmem.c",
+  "output": "src/CMakeFiles/lua54.dir/lmem.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\loadlib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\loadlib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/loadlib.c",
+  "output": "src/CMakeFiles/lua54.dir/loadlib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lobject.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lobject.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lobject.c",
+  "output": "src/CMakeFiles/lua54.dir/lobject.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lopcodes.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lopcodes.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lopcodes.c",
+  "output": "src/CMakeFiles/lua54.dir/lopcodes.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\loslib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\loslib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/loslib.c",
+  "output": "src/CMakeFiles/lua54.dir/loslib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lparser.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lparser.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lparser.c",
+  "output": "src/CMakeFiles/lua54.dir/lparser.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lstate.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lstate.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lstate.c",
+  "output": "src/CMakeFiles/lua54.dir/lstate.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lstring.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lstring.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lstring.c",
+  "output": "src/CMakeFiles/lua54.dir/lstring.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lstrlib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lstrlib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lstrlib.c",
+  "output": "src/CMakeFiles/lua54.dir/lstrlib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ltable.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ltable.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ltable.c",
+  "output": "src/CMakeFiles/lua54.dir/ltable.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ltablib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ltablib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ltablib.c",
+  "output": "src/CMakeFiles/lua54.dir/ltablib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\ltm.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\ltm.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/ltm.c",
+  "output": "src/CMakeFiles/lua54.dir/ltm.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lundump.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lundump.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lundump.c",
+  "output": "src/CMakeFiles/lua54.dir/lundump.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lutf8lib.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lutf8lib.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lutf8lib.c",
+  "output": "src/CMakeFiles/lua54.dir/lutf8lib.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lvm.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lvm.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lvm.c",
+  "output": "src/CMakeFiles/lua54.dir/lvm.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua54.dir\\lzio.c.obj /FdCMakeFiles\\lua54.dir\\lua54.pdb /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lzio.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lzio.c",
+  "output": "src/CMakeFiles/lua54.dir/lzio.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\lua.dir\\lua.c.obj /FdCMakeFiles\\lua.dir/ /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\lua.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/lua.c",
+  "output": "src/CMakeFiles/lua.dir/lua.c.obj"
+},
+{
+  "directory": "C:/Users/zhangchen/Desktop/lua-5.4.6/build/src",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx86\\x86\\cl.exe  /nologo  -IC:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\include /DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD /FoCMakeFiles\\luac.dir\\luac.c.obj /FdCMakeFiles\\luac.dir/ /FS -c C:\\Users\\zhangchen\\Desktop\\lua-5.4.6\\src\\luac.c",
+  "file": "C:/Users/zhangchen/Desktop/lua-5.4.6/src/luac.c",
+  "output": "src/CMakeFiles/luac.dir/luac.c.obj"
+}
+]

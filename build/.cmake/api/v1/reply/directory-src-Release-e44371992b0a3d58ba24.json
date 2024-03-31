@@ -1,0 +1,95 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/zhangchen/Desktop/lua-5.4.6/lua/bin",
+			"paths" : 
+			[
+				"lua/bin/lua.exe"
+			],
+			"targetId" : "lua::@145eef247bfb46b6828c",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/zhangchen/Desktop/lua-5.4.6/lua/bin",
+			"paths" : 
+			[
+				"lua/bin/luac.exe"
+			],
+			"targetId" : "luac::@145eef247bfb46b6828c",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/zhangchen/Desktop/lua-5.4.6/lua/bin",
+			"paths" : 
+			[
+				"lua/bin/lua54.lib"
+			],
+			"targetId" : "lua54::@145eef247bfb46b6828c",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/zhangchen/Desktop/lua-5.4.6/lua/include",
+			"paths" : 
+			[
+				"src/lua.h",
+				"src/lauxlib.h",
+				"src/lua.hpp",
+				"src/luaconf.h",
+				"src/lualib.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}
