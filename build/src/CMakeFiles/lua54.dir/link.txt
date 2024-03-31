@@ -1,1 +1,0 @@
-C:\PROGRA~2\MICROS~2\2022\BUILDT~1\VC\Tools\MSVC\1439~1.335\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:..\lua\bin\lua54.lib @CMakeFiles\lua54.dir\objects1.rsp 
